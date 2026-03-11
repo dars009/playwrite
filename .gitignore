@@ -1,0 +1,21 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (log file, local.properties)
+local.properties
+*.log
+
+# Gradle Wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+
+# MacOS files
+.DS_Store
